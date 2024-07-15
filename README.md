@@ -52,4 +52,4 @@ N'oubliez pas d'ajuster les valeurs des attributs selon vos besoins.
 # Authors
 Axel Lanta @NeozFuzzion (lantaxel@cy-tech.fr) <br/>
 Rémy Ollivier @PingouinDuTurfu (ollivierre@cy-tech.fr) <br/>
-Edouard Outrebon @EdouardOutrebon (outreboned@cy-tech.fr) 
+Edouard Outrebon @Izilyph (outreboned@cy-tech.fr) 
